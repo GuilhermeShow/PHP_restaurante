@@ -1,0 +1,5 @@
+.tabela {
+    min-height: 66vh;
+    padding: 4px 0;
+    overflow-x: scroll;
+}

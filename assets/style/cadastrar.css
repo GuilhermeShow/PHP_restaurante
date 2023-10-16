@@ -1,0 +1,18 @@
+.fundo {
+    background-image: url("../imagem/fundo.png");
+    
+}
+
+.conteudo {
+    padding: 40px 0;
+}
+
+.prato_titulo {
+    color: #fff;
+}
+
+label {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}

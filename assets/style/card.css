@@ -1,0 +1,44 @@
+.cafe {
+    display: flex;
+   flex-direction: row;
+
+}
+
+.subtitulo {
+    margin-top: 20px;
+    margin-left: 30px;
+    text-decoration: underline;
+    opacity: .9;
+}
+
+.container {
+    padding-right: 0px; 
+    padding-left: 0px;
+}
+
+.corpo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card_corpo {
+    display: flex; 
+    flex-wrap: wrap;
+
+}
+
+.descricao {
+    height: 120px;
+}
+
+.preco {
+    font-size: 26px;
+}
+
+.imagem {
+    height: 175px;
+}

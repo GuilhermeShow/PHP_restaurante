@@ -1,0 +1,20 @@
+.cabecario {
+    box-sizing: border-box;
+    height: 80px;
+}
+
+.logo {
+    font-size: 34px;
+    margin-right: 70px;
+}
+
+.linkp {
+    font-size: 22px;
+    
+}
+
+.bemvindo {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
